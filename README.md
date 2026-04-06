@@ -17,3 +17,5 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 - Identified 15% of failure amongst pupils in ibadan.
 - Discovered high loss of interest in going to sschool
 - Created interactive dashboard for monthly tracking
+
+<img src="images/Chat Image 2.png" width="600"/>
