@@ -22,4 +22,4 @@ I specialize in data cleaning, visualization, and reporting using Excel, SQL, an
 
 ### Research Article and Videographical documentation 
 ---
-[Detiailed article to the project →](link-to-project-folder)
+[Detiailed article to the project →](https://www.linkedin.com/feed/update/urn:li:activity:7419595525714345985/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4seIBxI-UHRbXvRVnrOYdZEEVraKIWDo)
