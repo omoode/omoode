@@ -1,4 +1,4 @@
-<img width="5744" height="401" alt="image" src="https://github.com/user-attachments/assets/73e9b23c-0551-4237-b709-b2038d4058be" /><p align="center">
+<p>
   <img src="Passport 1.jpg" width="150" style="border-radius: 50%;">
 </p>
 ## About Me
@@ -14,16 +14,17 @@ I am a mission-driven Data Analyst with a five-year background in IT Support and
 **Tools Used:** Excel, PowerBi, SQL
 
 **Key Findings:**
-- Identified 15% of failure amongst pupils in ibadan.
-- Discovered high loss of interest in going to sschool
-- Created interactive dashboard for monthly tracking
+- Identified a "False Economy" where annualized transport costs in satellite towns (e.g., ₦900k in Abuja Border) completely negate nominal rent savings.
+- Discovered a severe affordability crisis, with the average Rent-to-Income ratio hitting 72.6%, far exceeding the 30% global standard.
+- Established that "Landlord Inflation" (133% - 200% rent hikes) vastly outpaces the official CPI inflation rate of ~15%.
+- Revealed extreme physiological tolls, with 100% of peripheral zone commuters reporting daily physical exhaustion and stress due to traffic.
 
 ### Research Article and Videographical documentation 
 ---
 [Detiailed article to the project →](https://www.linkedin.com/feed/update/urn:li:activity:7419595525714345985/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4seIBxI-UHRbXvRVnrOYdZEEVraKIWDo)
 
 Click to watch our research videographic documentation. 
-[![Watch Video](Chat Image 2.png)](https://youtu.be/uwe8C7K8fXY?si=4Jr8nFq6jBdnnOrp)
+[![Watch Video](Chat Image 2.png)](https://www.youtube.com/watch?v=zCEtRCvhShg)
 
 
 ##  Team Research: Sales Trends, Pricing and Promotional Effectiveness in Zara Retail Products Analysis
