@@ -1,4 +1,4 @@
-DATA ANALYST
+# DATA ANALYST
 <p align="center">
   <img src="Chat Image 1.png" width="150" style="border-radius: 50%;">
 </p>
@@ -55,6 +55,6 @@ Click to watch our research videographic documentation.
 
 ## Contact
 - 📧 Email: odejideemm.tech@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/ayodejidennis](https://www.linkedin.com/in/emmanuel-odejide-16ab78374/)
+- 💼 LinkedIn: [linkedin.com/in/odejideemmanuel](https://www.linkedin.com/in/emmanuel-odejide-16ab78374/)
 - 📊 Tableau Public: [public.tableau.com/profile/sarahchen](link)
 - Power BI: []()
