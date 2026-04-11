@@ -1,4 +1,4 @@
-<p align="center">
+<img width="5744" height="401" alt="image" src="https://github.com/user-attachments/assets/73e9b23c-0551-4237-b709-b2038d4058be" /><p align="center">
   <img src="Passport 1.jpg" width="150" style="border-radius: 50%;">
 </p>
 ## About Me
@@ -11,7 +11,7 @@ I am a mission-driven Data Analyst with a five-year background in IT Support and
 </p>
 **Description:** An Analysis of the Real Estate trend in Lagos and Abuja since 2022.
 
-**Tools Used:** Excel, Tableau, SQL
+**Tools Used:** Excel, PowerBi, SQL
 
 **Key Findings:**
 - Identified 15% of failure amongst pupils in ibadan.
@@ -26,18 +26,21 @@ Click to watch our research videographic documentation.
 [![Watch Video](Chat Image 2.png)](https://youtu.be/uwe8C7K8fXY?si=4Jr8nFq6jBdnnOrp)
 
 
-##  Team Research Project Customer Segmentation Study
+##  Team Research: Sales Trends, Pricing and Promotional Effectiveness in Zara Retail Products Analysis
 ![Team Research](orm image.png)
 
-**Description:** Segmented 10,000 customers into 5 groups based on purchasing behavior.
+**Description:** Analysis into the histotical sales data of ZARA retails.
 
-**Tools Used:** SQL, Excel, Power BI
+**Tools Used:** Excel
 
 **Key Findings:**
-- VIP customers (8% of base) generated 35% of revenue
-- Recommended targeted marketing campaigns
-- Reduced churn risk by 12% through early intervention
-
+- Jackets are the top-selling item.
+- Sales are not reliant on promotions.
+- The Aisle and End-cap are the most effective sales positions.
+- Affordable products drive over 70% of total sales.
+- Sales are split almost 50/50 between seasonal and non-seasonal items.
+  
+  [Detiailed article to the project →](https://www.linkedin.com/posts/emmanuel-odejide-16ab78374_dataanalytics-exceldashboard-retailanalytics-share-7410635227582291968-gG2c?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4seIBxI-UHRbXvRVnrOYdZEEVraKIWDo)
 [View Project Files →](link-to-project-folder)
 
 ---
